@@ -72,11 +72,11 @@ export const questions = [
       },
       {
         answerText: "Taylorismo, fordismo e toyotismo",
-        correctAnswer: false,
+        correctAnswer: true,
       },
       {
         answerText: "Anarcocapitalismo, liberalismo, nazismo",
-        correctAnswer: true,
+        correctAnswer: false,
       },
       {
         answerText: "Chavismo, fascismo, nacionalismo",
