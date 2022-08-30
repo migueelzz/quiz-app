@@ -50,7 +50,7 @@ const Question = ({
       </p>
 
       <p className="question_number">
-        Question <span>{questionIndex + 1}</span>/10
+        Question <span>{questionIndex + 1}</span>/5
       </p>
     </Card>
   );
